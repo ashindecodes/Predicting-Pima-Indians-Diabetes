@@ -1,4 +1,4 @@
-# Predicting-Pima-Indians-Diabetes.
+# Predicting-Pima-Indians-Diabetes
 
 This repository consists of the code used in building an Application for Predicting Diabetes using Machine Learning.
 
