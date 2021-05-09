@@ -9,3 +9,4 @@ This repository consists of the code used in building an Application for Predict
 ![Screenshot](dia_app.PNG)
 
 ![](diabetes_app_gif.gif)
+
